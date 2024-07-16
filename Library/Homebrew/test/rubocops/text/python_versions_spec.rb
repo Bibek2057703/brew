@@ -1,4 +1,5 @@
-# frozen_string_literal: true
+#link
+frozen_string_literal: true
 
 require "rubocops/lines"
 
